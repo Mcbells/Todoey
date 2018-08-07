@@ -6,11 +6,13 @@
 //  Copyright © 2018 Isabelo Orapa. All rights reserved.
 //
 
-import Foundation
+//use this class for singleton only
 
-class Item: Codable {
-    
-    var title: String = ""
-    var done: Bool = false
-    
-}
+//import Foundation
+//
+//class Item: Codable {
+//
+//    var title: String = ""
+//    var done: Bool = false
+//
+//}
